@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 
+=======
+# Cron job to run the backup script every day at 2 AM
+0 2 * * * /home/mahy/daily-backup-script/daily_backup.sh
+>>>>>>> ca4602c (Add cronjob.txt with daily schedule)
